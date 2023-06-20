@@ -1,5 +1,3 @@
-# ERROR404
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +8,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="Scarecrow.png" alt="404 Not Found" class="image">
+    <img src="images/404-image.png" alt="404 Not Found" class="image">
     <h1 class="title">404 Not Found</h1>
     <p class="description">The page you are looking for does not exist.</p>
     <a href="index.html" class="button">Back to Homepage</a>
@@ -18,6 +16,3 @@
 </body>
 </html>
 
-
-
-La solución que he desarrollado para el desafío consiste en una página de error 404 personalizada siguiendo el diseño proporcionado. He creado un archivo HTML y otro archivo CSS para estructurar y dar estilo a la página.
